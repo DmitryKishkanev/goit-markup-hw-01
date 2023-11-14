@@ -1,4 +1,7 @@
 body {
-    background-color: teal;
+    background-color: red;
     color:  #fff;
+}
+.nav_logo {
+    background-color: blue;
 }
